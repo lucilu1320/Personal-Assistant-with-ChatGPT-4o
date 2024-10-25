@@ -1,0 +1,5 @@
+openai
+speechrecognition
+python-dotenv
+requests
+opencv-python
