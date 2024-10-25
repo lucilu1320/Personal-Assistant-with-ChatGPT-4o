@@ -16,7 +16,7 @@ A Python-based virtual assistant inspired by Iron Man's JARVIS. This assistant l
 
 1. **Clone this Repository**:
    ```sh
-   git clone https://github.com/your-username/Personal-Assistant-with-ChatGPT-4o.git
+   git clone https://github.com/lucilu1320/Personal-Assistant-with-ChatGPT-4o
    cd Personal-Assistant-with-ChatGPT-4o
    ```
 
