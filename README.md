@@ -5,10 +5,10 @@ A Python-based virtual assistant inspired by Iron Man's JARVIS. This assistant l
 ## Features
 - **Natural Language Understanding**: Uses OpenAI's GPT-4o for processing and generating responses to user queries.
 - **Voice Interaction**: Uses Google Speech Recognition for understanding commands and ElevenLabs API for responding (optional).
-- **Camera Integration**: Uses OpenCV to interact with the user via the laptop's camera.
+- **Camera Integration**: Uses OpenCV to interact with the user via the laptop's camera(*it access camera but still needs polishing, will update*).
 
 ## Requirements
-- **Python 3.7+**
+- **Python 3.10**
 - **API Keys**: OpenAI API Key, ElevenLabs API Key (optional for advanced voice synthesis).
 - **Microphone and Camera**: To interact via voice and video.
 
